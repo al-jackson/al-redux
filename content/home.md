@@ -1,3 +1,3 @@
 ---
-HomeImage: 
+HomeImage: lol 
 ---
