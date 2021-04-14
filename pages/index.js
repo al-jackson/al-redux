@@ -7,14 +7,7 @@ export default function Home() {
     <Layout>
       <article>
         <h1>{title}</h1>
-        <ul>
-          {cats.map((cat, k) => (
-            <li key={k}>
-              <h2>{cat.name}</h2>
-              <p>{cat.description}</p>
-            </li>
-          ))}
-        </ul>
+        
       </article>
     </Layout>
   );
