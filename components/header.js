@@ -18,10 +18,10 @@ export default function Header() {
         <HeaderLink href="/">
           <a>image</a>
         </HeaderLink>
-        <HeaderLink href="/projects">
+        <HeaderLink href="/video">
           <a>video</a>
         </HeaderLink>
-        <HeaderLink href="/services">
+        <HeaderLink href="/ode">
           <a>ode</a>
         </HeaderLink>
         <HeaderLink href="/contact">
