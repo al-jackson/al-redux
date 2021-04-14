@@ -13,7 +13,13 @@ export default function Layout({ children }) {
         />
         <meta property="og:image" content="" />
         <meta name="og:title" content="al redux" />
-        <meta name="twitter:card" content="summary_large_image" />  
+        <meta name="twitter:card" content="summary_large_image" /> 
+        <link
+            rel="preload"
+            href="/fonts/mvboli.ttf"
+            as="font"
+            crossOrigin=""
+          /> 
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
       {/* <Header /> */}

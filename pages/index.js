@@ -14,6 +14,7 @@ export default function Home() {
         width={300}
         height={100}
         alt={"fuck u m8"} />
+        <p>up yours child</p>
       </article>
     </Layout>
   );
