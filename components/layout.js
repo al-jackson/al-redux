@@ -1,5 +1,5 @@
 import Head from "next/head";
-// import Header from "./header";
+import Header from "./header";
 
 export default function Layout({ children }) {
   return (
@@ -22,7 +22,7 @@ export default function Layout({ children }) {
           /> 
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
-      {/* <Header /> */}
+      <Header />
       <main>{children}</main>
     </>
   );
