@@ -1,5 +1,5 @@
 import Layout from "../components/layout";
-import Image from "next/image"
+// import Image from "next/image"
 import { attributes } from "../content/home.md";
 
 
