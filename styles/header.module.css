@@ -29,6 +29,11 @@
   align-items: center;
 }
 
+.boy {
+  width: 34px;
+  height: 40px;
+}
+
 .heading {
   font-family: mvboli, sans-serif;
   color: white;

@@ -8,13 +8,11 @@ export default function Home() {
   return (
     <Layout  page={"Home"}>
       <article>
-        <h1>heyo</h1>
         <Image
         src={"/" + HomeImage}
         width={300}
         height={100}
         alt={"fuck u m8"} />
-        <p>up yours child</p>
       </article>
     </Layout>
   );

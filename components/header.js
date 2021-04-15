@@ -1,24 +1,14 @@
 import styles from "../styles/header.module.css";
 import HeaderLink from "../components/headerLink";
-import Image from "next/image";
 
 export default function Header({ isHome }) {
   return (
     <header className={styles.header}>
-      
-      <div className={isHome? styles.logo: styles.headingHidden}>
+      <div className={isHome ? styles.logo : styles.headingHidden}>
         <HeaderLink href="/">
-          <h1> 
-          {/* className={isOde ? styles.claretHeading : styles.heading}> */}
-            al redux
-          </h1>
+          <h1>al redux</h1>
         </HeaderLink>
-        <Image
-          src={"/img/long-nosed-boy.png"}
-          width={34}
-          height={40}
-          alt={"logo"}
-        />
+        <img src="/img/long-nosed-boy.png" alt="logo" className={styles.boy} />
       </div>
       <nav className={styles.nav}>
         <HeaderLink href="/image">
