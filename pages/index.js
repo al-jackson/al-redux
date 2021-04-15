@@ -6,7 +6,7 @@ import { attributes } from "../content/home.md";
 export default function Home() {
   let { HomeImage } = attributes;
   return (
-    <Layout>
+    <Layout  page={"Home"}>
       <article>
         <h1>heyo</h1>
         <Image
