@@ -42,11 +42,6 @@ collections:
     - label: "Ode"
       name: "ode"
       file: "content/ode.md"
-      fields:
-        label: "Ode Scroll", 
-        name: "odeScroll", 
-        widget: "markdown",
-        fields:
-          - { label: "Body", name: "body", widget: "markdown"}
+        - { label: "Body", name: "body", widget: "markdown"}
           
 
