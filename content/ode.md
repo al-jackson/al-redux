@@ -2,7 +2,7 @@
 
 granchild’s bones, I did not google Gaelic or its genesis,
 
-
+<br />
 
 Rather, I looked up from inner rim of Pilsner,
 
@@ -12,7 +12,7 @@ Goading, with glee of the creche, my lordly lineage
 
 and its murky constitution,
 
-
+<br />
 
 They understood I colonised them,
 
