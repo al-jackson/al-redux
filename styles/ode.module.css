@@ -18,6 +18,8 @@
     align-items: center;
 }
 
-.odeText {
+.odeContainer p {
     color: #770201;
+    margin: 0;
 }
+
