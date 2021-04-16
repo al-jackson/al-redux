@@ -5,9 +5,7 @@ export default function Header({ isHome }) {
   return (
     <header className={styles.header}>
       <div className={isHome ? styles.logo : styles.headingHidden}>
-        <HeaderLink href="/">
-          <h1>al redux</h1>
-        </HeaderLink>
+          <h1 className={styles.heading}>al redux</h1>
         <img src="/img/long-nosed-boy.png" alt="logo" className={styles.boy} />
       </div>
       <nav className={styles.nav}>
