@@ -20,7 +20,7 @@ collections:
         fields:
           [
             {
-              { label: "Image", name: "Image", widget: "image"}
+              { label: "Image", name: "Image", widget: "image"},
               { label: "Title", name: "Title", widget: "text"}
             }
           ]
