@@ -1,8 +1,26 @@
 .background {
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left:0;
-    background-color: #770201;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #770201;
+  display: flex;
+  justify-content: center;
+}
+
+.buyContainer {
+  /* width: 50vw; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 8rem;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.buyLink {
+    margin-top: 8rem;
+    text-transform: uppercase;
 }

@@ -1,13 +1,16 @@
 import Layout from "../components/layout";
 import styles from "../styles/buy.module.css";
-// import Image from "next/image"
-// import { attributes } from "../content/home.md";
 
 export default function Buy() {
-  //   let { HomeImage } = attributes;
   return (
     <Layout page={"Buy"}>
-      <div className={styles.background}></div>
+      <div className={styles.background}>
+        <section className={styles.buyContainer}>
+          <p>Sometimes I produce one-off runs of my work in various forms,</p>
+          <p>please check the link below for available items,</p>
+          <a href="#" className={styles.buyLink}>shop</a>
+        </section>
+      </div>
     </Layout>
   );
 }
