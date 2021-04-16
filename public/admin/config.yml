@@ -42,6 +42,7 @@ collections:
     - label: "Ode"
       name: "ode"
       file: "content/ode.md"
+      fields:
         - { label: "Body", name: "body", widget: "markdown"}
           
 
