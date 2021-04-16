@@ -6,3 +6,18 @@
     left:0;
     background-color: #DAFF00;
 }
+
+.odeContainer {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.odeText {
+    color: #770201;
+}

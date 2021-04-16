@@ -48,7 +48,7 @@
 
 .claretHeading {
   font-family: mvboli, sans-serif;
-  color: red;
+  color: #770201;
   font-size: 1.3rem;
   font-weight: 100;
   margin-right: 20px;
@@ -75,7 +75,7 @@
 
 .claretNavItem {
   font-family: mvboli, sans-serif;
-  color: red;
+  color: #770201;
   font-size: 1.3rem;
   font-weight: 100;
   margin-right: 40px;
@@ -83,9 +83,9 @@
 
 .claretNavItemSelected {
   font-family: mvboli, sans-serif;
-  color: red;
+  color: #770201;
   font-size: 1.3rem;
   font-weight: 100;
   margin-right: 40px;
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid #770201;
 }
