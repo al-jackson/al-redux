@@ -21,9 +21,9 @@ collections:
             name: "ImagePost", 
             widget: "list",
             fields:
-            [
-              {
-                { label: "Image", name: "Image", widget: "image"},
-                { label: "Title", name: "Title", widget: "text"}
-              }
-            ]
+              [
+                {
+                  { label: "Image", name: "Image", widget: "image"},
+                  { label: "Title", name: "Title", widget: "text"}
+                }
+              ]
