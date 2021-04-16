@@ -16,7 +16,7 @@ body {
 
 p {
   color: inherit;
-  font-size: 1.3rem;
+  font-size: inherit;
 }
 
 a {

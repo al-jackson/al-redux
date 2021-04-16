@@ -1,62 +1,56 @@
 .background {
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left:0;
-    background-color: #759174;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #759174;
 }
 
 .contactContainer {
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    padding-top: 5rem;
-    color: white;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 5rem;
+  color: white;
 }
 
-/* .contactAligner {
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-} */
-
 .contactType {
-    display: flex;
-    color: white;
-    margin: 4rem 0 0 0;
+  display: flex;
+  color: white;
+  margin: 4rem 0 0 0;
 }
 
 .leftColumn {
-    width: 25vw;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+  width: 25vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1.3rem;
 }
 
 .rightColumn {
-    width: 50vw;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+  width: 50vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.3rem;
 }
 
 .gmailIcon {
-    width: 58px;
-    height: 30px;
-    margin-right: 20px;
+  width: 58px;
+  height: 30px;
+  margin-right: 20px;
 }
 
 .instaIcon {
-    width: 30px;
-    height: 32px;
-    margin-right: 20px;
+  width: 30px;
+  height: 32px;
+  margin-right: 20px;
 }

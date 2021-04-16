@@ -6,7 +6,6 @@ export default function Contact() {
     <Layout page={"Contact"}>
       <div className={styles.background}></div>
       <section className={styles.contactContainer}>
-        <div className={styles.contactAligner}>
           <div className={styles.contactType}>
             <div className={styles.leftColumn}>
               <img
@@ -19,7 +18,6 @@ export default function Contact() {
               <p>alpauljackson@gmail.com</p>
             </div>
           </div>
-        </div>
         <div className={styles.contactType}>
           <div className={styles.leftColumn}>
             <img
