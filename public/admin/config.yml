@@ -16,11 +16,4 @@ collections:
       name: "image"
       file: "content/image.md"
       fields:
-        - { label: "Image Post", name: "ImagePost", widget: "list"}
-        fields:
-          [
-            {
-              { label: "Image", name: "Image", widget: "image"},
-              { label: "Title", name: "Title", widget: "text"}
-            }
-          ]
+        - { label: "Image Post", name: "ImagePost", widget: "string"}
