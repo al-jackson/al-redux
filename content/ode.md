@@ -34,4 +34,4 @@ And thru eye contact (daggered at the Gemini)
 
 Understood they’d hand ours back to us,
 
-If re-permitted dunking or the rack
+If re-permitted dunking or the rack"
