@@ -49,7 +49,7 @@ collections:
             widget: "list",
             fields:
               [
-                { label: "Text", name: "text", widget: "markdown"},
+                { label: "Text", name: "body", widget: "markdown"},
               ],
           }
 
