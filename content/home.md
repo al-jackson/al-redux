@@ -1,3 +1,3 @@
 ---
-HomeImage: img/main-background-image-for-page-1-aka-queen-.png
+HomeImage: img/small-main-page.jpg
 ---
