@@ -11,18 +11,47 @@ collections:
       name: "home"
       file: "content/home.md"
       fields:
-        - { label: "Home Image", name: "HomeImage", widget: "image"}
+        - { label: "Home Image", name: "homeImage", widget: "image"}
     - label: "Image"
       name: "image"
       file: "content/image.md"
       fields:
         - { 
             label: "Image Post", 
-            name: "ImagePost", 
+            name: "imagePost", 
             widget: "list",
             fields:
               [
-                { label: "Image", name: "Image", widget: "image"},
-                { label: "Title", name: "Title", widget: "text"},
+                { label: "Image", name: "image", widget: "image"},
+                { label: "Title", name: "title", widget: "text"},
               ],
-          }  
+          }
+    - label: "Video"
+      name: "video"
+      file: "content/video.md"
+      fields:
+        - { 
+            label: "Video Post", 
+            name: "videoPost", 
+            widget: "list",
+            fields:
+              [
+                { label: "Video URL", name: "url", widget: "string"},
+                { label: "Title", name: "title", widget: "text"},
+              ],
+          }
+    - label: "Ode"
+      name: "ode"
+      file: "content/ode.md"
+      fields:
+        - { 
+            label: "Ode Post", 
+            name: "odePost", 
+            widget: "list",
+            fields:
+              [
+                { label: "Title", name: "title", widget: "text"},
+                { label: "Text", name: "text", widget: "markdown"},
+              ],
+          }
+
