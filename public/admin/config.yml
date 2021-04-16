@@ -37,6 +37,7 @@ collections:
             fields:
               [
                 { label: "Video URL", name: "url", widget: "string"},
+                { label: "Title", name: "title", widget: "string"},
               ],
           }
     - label: "Ode"
