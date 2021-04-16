@@ -38,5 +38,4 @@ odePost:
       Understood they’d hand ours back to us,
 
       If re-permitted dunking or the rack
-    title: none
 ---
