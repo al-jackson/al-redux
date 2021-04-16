@@ -12,3 +12,9 @@ collections:
       file: "content/home.md"
       fields:
         - { label: "HomeImage", name: "HomeImage", widget: "image"}
+    - label: "Image"
+      name: "image"
+      file: "content/image.md"
+      fields:
+        - { label: "Image", name: "Image", widget: "image"}
+        - { label: "Title", name: "Title", widget: "text"}
