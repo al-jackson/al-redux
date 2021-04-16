@@ -18,24 +18,45 @@
     justify-content: flex-start;
     align-items: flex-start;
     padding-top: 5rem;
+    color: white;
 }
+
+/* .contactAligner {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
 
 .contactType {
     display: flex;
-    justify-content: center;
-    align-items: center;
     color: white;
-    margin: 4rem 0 0 20rem;
+    margin: 4rem 0 0 0;
+}
+
+.leftColumn {
+    width: 25vw;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.rightColumn {
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .gmailIcon {
-    width: 65px;
-    height: 40px;
+    width: 58px;
+    height: 30px;
     margin-right: 20px;
 }
 
 .instaIcon {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 32px;
     margin-right: 20px;
 }
