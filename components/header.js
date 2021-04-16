@@ -1,8 +1,10 @@
 import styles from "../styles/header.module.css";
 import HeaderLink from "../components/headerLink";
+import HeaderHomeAlone from "./headerHomeAlone"
 
 export default function Header({ isHome }) {
   return (
+    isHome ? (
     <header className={styles.header}>
       <div className={isHome ? styles.logo : styles.headingHidden}>
           <h1 className={styles.heading}>al redux</h1>
@@ -26,5 +28,5 @@ export default function Header({ isHome }) {
         </HeaderLink>
       </nav>
     </header>
-  );
+  ) : (<HeaderHomeAlone />))
 }
