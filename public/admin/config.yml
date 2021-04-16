@@ -47,6 +47,6 @@ collections:
         name: "odeScroll", 
         widget: "markdown",
         fields:
-          - { label: "Body", name: "body", widget: "markdown"},
+          - { label: "Body", name: "body", widget: "markdown"}
           
 
