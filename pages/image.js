@@ -3,6 +3,7 @@ import { attributes } from "../content/image.md";
 
 export default function Image() {
   let { imagePost } = attributes;
+  console.log(imagePost)
   return (
     <Layout page={"Image"}>
       {imagePost
