@@ -3,22 +3,34 @@ import { attributes } from "../content/image.md";
 
 export default function Image() {
   let { imagePost } = attributes;
-  console.log(imagePost)
   return (
     <Layout page={"Image"}>
       {imagePost
         ? imagePost.map((post, k) => {
-            return (
+            return post.fullscreen ? (
               <div className="post" key={k}>
                 <div
                   style={{
                     background: `url(/${post.image}) no-repeat center center`,
                     backgroundSize: "cover",
                     width: "100vw",
-                    height: "90vh"
+                    height: "90vh",
                   }}
-                >
+                ></div>
+                <div className="post-title-container">
+                  <h2 className="post-title">{post.title}</h2>
                 </div>
+              </div>
+            ) : (
+              <div className="post" key={k}>
+                <div
+                  style={{
+                    background: `url(/${post.image}) no-repeat center center`,
+                    backgroundSize: "contain",
+                    width: "100vw",
+                    height: "90vh",
+                  }}
+                ></div>
                 <div className="post-title-container">
                   <h2 className="post-title">{post.title}</h2>
                 </div>
@@ -37,14 +49,20 @@ export default function Image() {
           padding: 0;
         }
         .post-title-container {
-          background-color: rgba(148, 148, 148, 0.7);
+          background-color: rgba(148, 148, 148, 1);
           width: 100vw;
           height: 10vh;
           display: flex;
           align-items: center;
           padding-left: 25px;
           color: white;
-          z-index: 1;
+          z-index: 0;
+        }
+        .non-full-image {
+          width: auto;
+          height: auto;
+          max-width: 100vw;
+          max-height: 100vh;
         }
       `}</style>
     </Layout>
