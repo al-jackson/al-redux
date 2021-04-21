@@ -37,7 +37,7 @@ collections:
             widget: "list",
             fields:
               [
-                { label: "Video URL", name: "url", widget: "string"},
+                { label: "Video Code e.g. ZgdrcoPbpSs", name: "url", widget: "string"},
                 { label: "Title", name: "title", widget: "string"},
               ],
           }
