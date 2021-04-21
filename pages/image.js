@@ -12,7 +12,7 @@ export default function Image() {
                 <div
                   style={{
                     background: `url(/${post.image}) no-repeat center center`,
-                    backgroundSize: "cover",
+                    backgroundSize: "contain",
                     width: "100vw",
                     height: "90vh",
                   }}
