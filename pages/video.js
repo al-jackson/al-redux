@@ -19,6 +19,7 @@ export default function Video() {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               ></iframe>
+              <h2 className={styles.videoTitle}>{video.title}</h2>
           </div>
         );
       })}
