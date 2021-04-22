@@ -6,18 +6,18 @@ export default function Contact() {
     <Layout page={"Contact"}>
       <div className={styles.background}></div>
       <section className={styles.contactContainer}>
-          <div className={styles.contactType}>
-            <div className={styles.leftColumn}>
-              <img
-                src="/img/gmail-icon.png"
-                alt="gmail icon"
-                className={styles.gmailIcon}
-              />
-            </div>
-            <div className={styles.rightColumn}>
-              <p>alpauljackson@gmail.com</p>
-            </div>
+        <div className={styles.contactType}>
+          <div className={styles.leftColumn}>
+            <img
+              src="/img/gmail-icon.png"
+              alt="gmail icon"
+              className={styles.gmailIcon}
+            />
           </div>
+          <div className={styles.rightColumn}>
+            <p>alpauljackson@gmail.com</p>
+          </div>
+        </div>
         <div className={styles.contactType}>
           <div className={styles.leftColumn}>
             <img
@@ -27,7 +27,12 @@ export default function Contact() {
             />
           </div>
           <div className={styles.rightColumn}>
-            <a href="https://instagram.com/al_redux/" alt="al's insta">
+            <a
+              href="https://instagram.com/al_redux/"
+              alt="al's insta"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               al_redux
             </a>
           </div>
