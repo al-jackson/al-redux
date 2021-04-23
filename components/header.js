@@ -21,7 +21,7 @@ export default function Header({ isHome }) {
           <a>ode</a>
         </HeaderLink>
         <HeaderLink href="/contact">
-          <a>Contact</a>
+          <a>contact</a>
         </HeaderLink>
         <HeaderLink href="/buy">
           <a>buy</a>

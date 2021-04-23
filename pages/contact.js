@@ -15,7 +15,7 @@ export default function Contact() {
             />
           </div>
           <div className={styles.rightColumn}>
-            <p>alpauljackson@gmail.com</p>
+            <p>al@al-redux.com</p>
           </div>
         </div>
         <div className={styles.contactType}>
