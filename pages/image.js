@@ -75,7 +75,7 @@ export default function Image() {
           height: 10vh;
           display: flex;
           align-items: center;
-          padding-left: 25px;
+          padding-left: 10vh;
           color: rgba(148, 148, 148, 1);
           z-index: 0;
         }
