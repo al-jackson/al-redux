@@ -42,7 +42,7 @@
   margin-right: 20px;
 }
 
-.headingHidden{
+.headingHidden {
   visibility: hidden;
 }
 
@@ -88,4 +88,21 @@
   font-weight: 100;
   margin-right: 40px;
   border-bottom: 2px solid #770201;
+}
+
+.greyNavItem {
+  font-family: mvboli, sans-serif;
+  color: rgba(148, 148, 148, 1);
+  font-size: 1.3rem;
+  font-weight: 100;
+  margin-right: 40px;
+}
+
+.greyNavItemSelected {
+  font-family: mvboli, sans-serif;
+  color: rgba(148, 148, 148, 1);
+  font-size: 1.3rem;
+  font-weight: 100;
+  margin-right: 40px;
+  border-bottom: 2px solid rgba(148, 148, 148, 1);
 }

@@ -11,6 +11,10 @@ export default function HeaderLink({ href, children }) {
       if (router.pathname === href) {
         return styles.claretNavItemSelected;
       } else return styles.claretNavItem;
+    } else if (router.pathname === "/image") {
+      if (router.pathname === href) {
+        return styles.greyNavItemSelected;
+      } else return styles.greyNavItem;
     } else if (router.pathname === href) {
       return styles.navItemSelected;
     }
