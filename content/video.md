@@ -1,11 +1,12 @@
 ---
 videoPost:
   - url: ZgdrcoPbpSs
-    title: RIO Hedz
+    title: One of a series of commissioned idents for Hackney's Rio Cinema -
+      December 2020
   - url: yL6cw3KgUXE
-    title: RIO 'Goblin' Ident
+    title: One of a series of commissioned idents for Hackney's Rio Cinema -
+      December 2020
   - url: iG0H2lmQacc
-    title: Don't Let Monsters Eat the Rio
-  - url: "537348792"
-    title: Rio Heads
+    title: One of a series of commissioned idents for Hackney's Rio Cinema -
+      December 2020
 ---
