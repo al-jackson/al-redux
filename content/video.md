@@ -9,4 +9,10 @@ videoPost:
   - url: iG0H2lmQacc
     title: One of a series of commissioned idents for Hackney's Rio Cinema -
       December 2020
+  - url: ymjZhmD-DSw
+    title: "Ghold - Blindsided and Drunk. Music video directed and animated circa
+      summer 2019. "
+  - url: 3u-akiOiPY
+    title: Wesley Gonzalez - Tried To Tell Me Something - Music video directed and
+      animated June 2020
 ---
