@@ -42,16 +42,17 @@ imagePost:
     title: "The Xbox Title that will Hasten Neo-Cromwellianism "
     fullscreen?: true
     fullscreen: false
-  - image: img/11.jpg
-    title: "NTS Plug - One of a trio of unused images for project with NTS radio "
-  - image: img/12.jpg
-    title: "NTS Plug - Two of a trio of unused images for project with NTS radio "
-  - image: img/13.jpg
-    title: "NTS Plug - Three of a trio of unused images for project with NTS radio "
+  - image: img/nts-megamix.jpg
+    title: "NTS Plug - Triptych of unused images for project with NTS radio "
   - image: img/14-15-16.jpg
     title: Don't Let Monsters Eat the Rio - trio of stills from my short film for
       Hackney's Rio Cinema
   - image: img/17.jpg
+    title: Going Green - still from commissioned short film for Hackney's 'Rio
+      Cinema Going Green Initiative'
+    fullscreen?: true
+    fullscreen: false
+  - image: img/23.jpg
     title: Going Green - still from commissioned short film for Hackney's 'Rio
       Cinema Going Green Initiative'
     fullscreen?: true
@@ -77,11 +78,6 @@ imagePost:
     fullscreen?: true
     fullscreen: false
   - image: img/22.jpg
-    title: Going Green - still from commissioned short film for Hackney's 'Rio
-      Cinema Going Green Initiative'
-    fullscreen?: true
-    fullscreen: false
-  - image: img/23.jpg
     title: Going Green - still from commissioned short film for Hackney's 'Rio
       Cinema Going Green Initiative'
     fullscreen?: true
