@@ -12,7 +12,7 @@ videoPost:
   - url: ymjZhmD-DSw
     title: "Ghold - Blindsided and Drunk. Music video directed and animated circa
       summer 2019. "
-  - url: 3u-akiOiPY
+  - url: _3u-akiOiPY
     title: Wesley Gonzalez - Tried To Tell Me Something - Music video directed and
       animated June 2020
 ---
