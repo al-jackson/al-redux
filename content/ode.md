@@ -1,14 +1,40 @@
-“Coz I’m no longer feeding the ogre who will club my
 
-granchild’s bones, I did not google Gaelic or its genesis,
+
+The Goblin.
 
 <br />
 
-Rather, I looked up from inner rim of Pilsner,
+"Crack a can with patent hiss, and bathe the goblin's teeth,
+
+Enamel keys, in fizzy liquid, with which they touch-type favourites lists,
+
+Head back, little finger, mouth 'doth grin' and dropped lids,
+
+all dressed up in a super-tunic :0
+
+of Phenylalanine, and a Sunset Yellow bib"
+
+<br />
+
+
+
+\----
+
+The Ogre.
+
+<br />
+
+“Coz I’m no longer feeding the ogre who will club my
+
+grandchild’s bones, I did not google Gaelic or its genesis,
+
+<br />
+
+Instead I stared from inner rim of Pilsner,
 
 at the sum of ten centuries - Celtic twins of seven foot,
 
-Goading, with glee of the creche, my lordly lineage
+Goading with creche-glee my lordly lineage
 
 and its murky constitution,
 
