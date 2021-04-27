@@ -1,8 +1,8 @@
 ---
 videoPost:
-  - url: ZgdrcoPbpSs?controls=0
+  - url: ZgdrcoPbpSs
     title: One of a series of commissioned idents for Hackney's Rio Cinema -
-      December 2020 X
+      December 2020
   - url: yL6cw3KgUXE
     title: One of a series of commissioned idents for Hackney's Rio Cinema -
       December 2020
