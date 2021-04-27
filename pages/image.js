@@ -79,6 +79,9 @@ export default function Image() {
           color: rgba(148, 148, 148, 1);
           z-index: 0;
         }
+        .post-title {
+          font-size: 1rem;
+        }
       `}</style>
     </Layout>
   );
