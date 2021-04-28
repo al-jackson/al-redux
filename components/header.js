@@ -1,8 +1,30 @@
 import styles from "../styles/header.module.css";
 import HeaderLink from "../components/headerLink";
-import HeaderHomeAlone from "./headerHomeAlone"
+import HeaderHomeAlone from "./headerHomeAlone";
+import MobileNav from "./mobileNav"
+import React from "react";
 
 export default function Header({ isHome }) {
+  const [isDesktop, setDesktop] = React.useState(false);
+
+  React.useEffect(() => {
+    if (typeof window !== "undefined") {
+      setDesktop(window.innerWidth > 1000);
+    }
+    // eslint-disable-next-line
+  }, []);
+
+  const updateMedia = () => {
+    if (typeof window !== "undefined") {
+      setDesktop(window.innerWidth > 1000);
+    }
+  };
+
+  React.useEffect(() => {
+    window.addEventListener("resize", updateMedia);
+    return () => window.removeEventListener("resize", updateMedia);
+  });
+
   return (
     isHome ? (
     <header className={styles.header}>
@@ -10,6 +32,7 @@ export default function Header({ isHome }) {
           <h1 className={styles.heading}>al redux</h1>
         <img src="/img/long-nosed-boy.png" alt="logo" className={styles.boy} />
       </div>
+      {isDesktop ? (
       <nav className={styles.nav}>
         <HeaderLink href="/image">
           <a>image</a>
@@ -26,7 +49,9 @@ export default function Header({ isHome }) {
         <HeaderLink href="/buy">
           <a>buy</a>
         </HeaderLink>
-      </nav>
+      </nav>) : (
+        <MobileNav />
+      )}
     </header>
   ) : (<HeaderHomeAlone />))
 }
