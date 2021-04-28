@@ -11,8 +11,7 @@ export default function Video() {
         return (
           <div className={styles.videoContainer} key={k}>
               <iframe
-                width="853"
-                height="480"
+              className={styles.videoFrame}
                 src={`https://www.youtube.com/embed/${video.url}?controls=0`}
                 title={video.title}
                 frameBorder="0"

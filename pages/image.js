@@ -76,7 +76,7 @@ export default function Image() {
           display: flex;
           align-items: center;
           padding-left: 10vh;
-          color: rgba(148, 148, 148, 1);
+          color: #949494;
           z-index: 0;
         }
         .post-title {

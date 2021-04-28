@@ -16,14 +16,29 @@
   justify-content: center;
   align-items: center;
   color: white;
+  padding: 5vw;
 }
 
-.videoResponsive {
-    width: 853px;
-    height: 480px;
+.videoFrame {
+  width: 853px;
+  height: 480px;
 }
 
 .videoTitle {
   font-size: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .videoFrame {
+    width: 700px;
+    height: 394px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .videoFrame {
+    width: 90vw;
+    height: 50.625vw;
+  }
 }
 
