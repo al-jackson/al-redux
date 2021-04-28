@@ -9,14 +9,14 @@ export default function Header({ isHome }) {
 
   React.useEffect(() => {
     if (typeof window !== "undefined") {
-      setDesktop(window.innerWidth > 1000);
+      setDesktop(window.innerWidth > 768);
     }
     // eslint-disable-next-line
   }, []);
 
   const updateMedia = () => {
     if (typeof window !== "undefined") {
-      setDesktop(window.innerWidth > 1000);
+      setDesktop(window.innerWidth > 768);
     }
   };
 

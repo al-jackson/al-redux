@@ -82,6 +82,11 @@ export default function Image() {
         .post-title {
           font-size: 1rem;
         }
+        @media only screen and (max-width: 768px) {
+          .post-title-container {
+            padding: 1rem;
+          }
+        }
       `}</style>
     </Layout>
   );
