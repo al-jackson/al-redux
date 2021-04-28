@@ -110,7 +110,6 @@
 .burger {
   width: auto;
   height: 3vh;
-  margin-right: 20px;
   cursor: pointer;
 }
 
@@ -120,6 +119,6 @@
   }
 
   .greyNavItem, .claretNavItem, .navItem {
-    margin-right: 20px;
+    margin-right: 0px;
   }
 }

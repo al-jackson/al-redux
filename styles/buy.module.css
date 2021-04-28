@@ -5,21 +5,20 @@
   top: 0;
   left: 0;
   background-color: #770201;
-  display: flex;
-  justify-content: center;
 }
 
 .buyContainer {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   padding: 8rem 1rem 1rem 1rem;
   color: white;
   font-size: 1.3rem;
+  position: relative;
 }
 
 .buyLink {
-    margin-top: 8rem;
-    text-transform: uppercase;
+  margin-top: 8rem;
+  text-transform: uppercase;
 }
