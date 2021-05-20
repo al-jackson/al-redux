@@ -80,7 +80,7 @@ export default function Image() {
           z-index: 0;
         }
         .post-title {
-          font-size: 1rem;
+          font-size: 0.8rem;
         }
         @media only screen and (max-width: 768px) {
           .post-title-container {
