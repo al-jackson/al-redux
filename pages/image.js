@@ -10,7 +10,6 @@ export default function Image() {
         ? imagePost.map((post, k) => {
             return post.fullscreen ? (
               <div className="post" key={k}>
-                <div className="post-image-container">
                 <div
                   style={{
                     background: `url(/${post.image}) no-repeat center center`,
@@ -19,19 +18,16 @@ export default function Image() {
                     height: "80vh",
                   }}
                 ></div>
-                </div>
                 <div className="post-title-container">
                   <h2 className="post-title">{post.title}</h2>
                 </div>
               </div>
             ) : (
               <div className="post" key={k}>
-                <div
+                <div className="post-image-container"
                   style={{
                     background: `url(/${post.image}) no-repeat center center`,
                     backgroundSize: "contain",
-                    width: "100vw",
-                    height: "80vh",
                   }}
                 ></div>
                 <div className="post-title-container">
@@ -63,11 +59,8 @@ export default function Image() {
           padding: 0;
         }
         .post-image-container {
-          display: flex;
-          flex-direction: column;
-          justify-content: flex-end;
           width: 100vw;
-          height: 90vh;
+          height: 80vh;
         }
         .post-title-container {
           background-color: white;
@@ -83,6 +76,12 @@ export default function Image() {
           font-size: 0.8rem;
         }
         @media only screen and (max-width: 768px) {
+          .post {
+            justify-content: center;
+          }
+          .post-image-container {
+            height: 50vh;
+          }
           .post-title-container {
             padding: 1rem;
           }
