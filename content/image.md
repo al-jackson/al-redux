@@ -1,6 +1,6 @@
 ---
 imagePost:
-  - image: img/54-for-sending-in-portfolio-emails.jpg
+  - image: img/92-jay-pegg.jpg
     title: Map of Kent
   - image: img/01.jpg
     title: Bad Input for Evil People - digital sculpt printed on fabric.
