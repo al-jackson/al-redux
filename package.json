@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.12",
-    "@babel/preset-react": "^7.13.13",
+    "@babel/preset-react": "^7.16.7",
     "frontmatter-markdown-loader": "^3.6.3"
   }
 }
