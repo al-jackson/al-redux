@@ -1,5 +1,7 @@
 ---
 videoPost:
+  - url: EuTRokgsRyU
+    title: Music video for TV PRIEST, commissioned by SubPop - Jan 2022
   - url: ZgdrcoPbpSs
     title: One of a series of commissioned idents for Hackney's Rio Cinema -
       December 2020
