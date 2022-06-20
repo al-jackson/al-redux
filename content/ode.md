@@ -1,8 +1,8 @@
-The Goblin.
+The Boglin.
 
 <br />
 
-"Crack a can with patent hiss, and bathe the goblin's teeth,
+"Crack a can with patent hiss, and bathe the Boglin's teeth,
 
 Enamel keys, in fizzy liquid, with which they touch-type favourites lists,
 
