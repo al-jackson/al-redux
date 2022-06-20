@@ -4,7 +4,7 @@ imagePost:
     title: Fallen Tree 2022
   - image: img/92-jay-pegg.jpg
     title: Map of Kent
-  - image: img/01.jpg
+  - image: img/bad-input-12.png
     title: Bad Input for Evil People - digital sculpt printed on fabric.
     fullscreen?: true
     fullscreen: false
