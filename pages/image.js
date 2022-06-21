@@ -45,7 +45,7 @@ export default function Image() {
           position: fixed;
           top: 0;
           left: 0;
-          background-color: white;          
+          background-color: #ffecd9;          
         }
         .post {
           width: 100vw;
@@ -63,7 +63,7 @@ export default function Image() {
           height: 80vh;
         }
         .post-title-container {
-          background-color: white;
+          background-color: #ffecd9;
           width: 100vw;
           height: 10vh;
           display: flex;
