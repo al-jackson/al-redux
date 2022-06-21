@@ -1,5 +1,9 @@
 ---
 videoPost:
+  - url: H-95Ror6PBs
+    title: Excerpt from the Priceless Vase - 2022
+  - url: PTNynoc5NPw
+    title: Excerpt from the Priceless Vase - 2022
   - url: JL28JGEPPI0
     title: Excerpt from the Priceless Vase - 2022
   - url: WGmlt60IDTs
