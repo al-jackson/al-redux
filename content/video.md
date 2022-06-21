@@ -1,6 +1,6 @@
 ---
 videoPost:
-  - url: https://youtu.be/JL28JGEPPI0
+  - url: JL28JGEPPI0
     title: Excerpt from the Priceless Vase - 2022
   - url: WGmlt60IDTs
     title: Music video for TV PRIEST, commissioned by SubPop - Jan 2022
