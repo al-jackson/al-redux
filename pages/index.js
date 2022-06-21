@@ -2,13 +2,13 @@ import Layout from "../components/layout";
 import { attributes } from "../content/home.md";
 
 export default function Home() {
-  let { HomeImage } = attributes;
+  let { homeImage } = attributes;
   return (
     <Layout page={"Home"}>
       <div className="homeImage"></div>
       <style jsx>{`
         .homeImage {
-          background: url(/${HomeImage}) no-repeat center center fixed;
+          background: url(/${homeImage}) no-repeat center center fixed;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
