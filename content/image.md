@@ -42,10 +42,4 @@ imagePost:
     title: Lucky Teufel - digital sculpt printed on fabric.
     fullscreen?: true
     fullscreen: false
-  - image: img/10.jpg
-    title: "The Xbox Title that will Hasten Neo-Cromwellianism "
-    fullscreen?: true
-    fullscreen: false
-  - image: img/nts-megamix.jpg
-    title: "NTS Plug - Triptych of unused images for project with NTS radio "
 ---
