@@ -1,7 +1,5 @@
 ---
 imagePost:
-  - image: img/fallen-tree-1.png
-    title: Fallen Tree 2022
   - image: img/92-jay-pegg.jpg
     title: Map of Kent
   - image: img/bad-input-12.png
@@ -23,11 +21,6 @@ imagePost:
   - image: img/05.jpg
     title: '"Imagine yourself as a White Star Liner, being launched into the ocean
       by a cheering crowd of millions"'
-    fullscreen?: true
-    fullscreen: false
-  - image: img/06.jpg
-    title: Lockdown Ghouls - one off poster for Rio Cinema - digital sculpture
-      printed to UK 'quad'.
     fullscreen?: true
     fullscreen: false
   - image: img/07.jpg
