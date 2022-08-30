@@ -2,14 +2,6 @@
 imagePost:
   - image: img/92-jay-pegg.jpg
     title: Map of Kent
-  - image: img/bad-input-12.png
-    title: Bad Input for Evil People - digital sculpt printed on fabric.
-    fullscreen?: true
-    fullscreen: false
-  - image: img/02.jpg
-    title: Lookers and Pushers - digital sculpt printed on fabric.
-    fullscreen?: true
-    fullscreen: false
   - image: img/03.jpg
     title: Related to a Baxter Redux
     fullscreen?: true
