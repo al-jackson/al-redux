@@ -1,6 +1,6 @@
 ---
 videoPost:
-  - url: https://youtu.be/1KjFhz8xY6Q
+  - url: 1KjFhz8xY6Q
     title: Moorland Harmonix - Short film I produced for a solo show.
   - url: H-95Ror6PBs
     title: Excerpt from the Priceless Vase - 2022
