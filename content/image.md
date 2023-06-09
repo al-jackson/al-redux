@@ -1,5 +1,9 @@
 ---
 imagePost:
+  - image: img/skelly-trio.jpg
+    title: MERSEY FERRY ON THE RIVER THAMES - Digital sculptures printed onto
+      synthetic silk. Commissioned alongside a short film as part of the Band of
+      Holy Joy group show 'Fated Beautiful Mistakes', June 2023, London.
   - image: img/92-jay-pegg.jpg
     title: Map of Kent
   - image: img/03.jpg
@@ -27,8 +31,4 @@ imagePost:
     title: Lucky Teufel - digital sculpt printed on fabric.
     fullscreen?: true
     fullscreen: false
-  - image: img/skelly-trio.jpg
-    title: MERSEY FERRY ON THE RIVER THAMES - Digital sculptures printed onto
-      synthetic silk. Commissioned alongside a short film as part of the Band of
-      Holy Joy group show 'Fated Beautiful Mistakes', June 2023, London.
 ---
