@@ -1,4 +1,4 @@
 ---
 HomeImage: img/small-main-page.jpg
-homeImage: img/invite-final-border-for-web.jpg
+homeImage: img/0019.png
 ---
